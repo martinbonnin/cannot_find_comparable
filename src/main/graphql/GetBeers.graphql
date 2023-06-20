@@ -1,0 +1,7 @@
+query GetBeers {
+    beers(limit: 10) {
+        upc
+        name
+        picture
+    }
+}
