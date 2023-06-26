@@ -2,7 +2,7 @@ import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    id("com.android.application").version("8.2.0-alpha08")
+    id("com.android.application").version("8.2.0-alpha09")
     id("org.jetbrains.kotlin.android").version("1.8.21")
     id("com.apollographql.apollo3").version("4.0.0-alpha.1")
 }
